@@ -46,7 +46,7 @@ Make sure you have these installed on your machine:
 ### 📥 Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/farmezy.git
+   git clone https://github.com/codepool1437/farmezy.git
    cd farmezy
 
 2. Install dependencies:
